@@ -1,3 +1,6 @@
+//Purpose: demonstrate java class stuff
+//will move this to other account soon
+
 public class Hello {
     
     //initialize variables
